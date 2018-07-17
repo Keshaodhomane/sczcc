@@ -1281,6 +1281,7 @@ box-shadow: 0 0 30px rgba(0,0,0,0.2);
     margin-top:20px;
     list-style-type: none;
     text-align: left;
+    display:none !important;
 }
 
 .Modern-Slider .slick-dots li {
@@ -1366,7 +1367,7 @@ box-shadow: 0 0 30px rgba(0,0,0,0.2);
 }
 
 .Modern-Slider .item .info>div {
-    width: 58%;
+    width: 100%;
     padding: 20px;
     position:absolute;
     left:50px;
