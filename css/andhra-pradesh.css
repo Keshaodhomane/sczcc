@@ -1,0 +1,106 @@
+.main-bg
+{
+
+    background: url(../images/full-bg-andhra-pradesh.jpg) no-repeat center top;
+    width: 100%;
+    background-size: cover;
+
+}
+
+
+
+.topstrip
+{
+    background: #AC4300;
+}
+
+
+
+.bluebutton, .blubutton, .redbutt
+{
+    background:#AC4300;
+}
+
+
+.exhibitions
+{
+    background: #AC4300;
+}
+
+.logo h1 , .navbar-light .navbar-nav .nav-link, h2, .exhibition-dates > .n-content h3, .news > .n-content h3, .allboxes > div:nth-child(2) h5, .orangebull li a, .slide h6
+{
+    color: #AC4300;
+}
+
+
+.warli, .footer, .warli, .side-links
+{
+
+    background: url(../images/warli-painting-andhra-pradesh.jpg);
+
+}
+
+
+.warli::before, .footer::before
+{
+    background:url(../images/topline-andhra-pradesh.png) repeat-x center bottom ; 
+}
+
+
+.warli::after
+{
+    background:url(../images/botline-andhra-pradesh.png) repeat-x center bottom ; 
+}
+
+
+.latest-news, .artist, .exhibition-dates > div:nth-child(1) {
+    background: #FFA520;
+}
+
+h2 span, p span
+{
+    color: #FFA520;;
+}
+
+
+.allboxes > div > h4
+{
+    background:url(../images/blue-lightbg-andhra-pradesh.png) repeat-x center top;
+}
+
+
+.exhibition-dates > div:nth-child(2), .news > div:nth-child(2)
+{
+    background: rgba(255,255,255,.8);
+}
+
+
+.news > div:nth-child(1) {
+
+    background: #AC4300;
+}
+
+
+.copyrightinfo
+{
+    background: #000;
+}
+
+
+.allboxes > div > h4
+{
+    color: #fff;
+}
+
+
+.blueinput {
+    background:#FFA520;
+    border-radius: 0px !important;
+}
+
+
+.allboxes > div {
+    min-height: 380px;
+    box-shadow: #FFA520 0px 0px 10px;
+    background: rgb(255, 255, 255);
+}

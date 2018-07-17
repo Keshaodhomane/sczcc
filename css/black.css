@@ -1,0 +1,76 @@
+img {
+	filter: grayscale(1);
+}
+
+
+
+.logo
+{
+    filter: grayscale(1);
+}
+
+div{filter: grayscale(1);}
+
+
+div:not("img") {filter: grayscale(1);}
+
+
+.topnav {
+    background: #1A1A1A;
+}
+
+.bluebg-strip {
+    background: #1A1A1A;
+}
+
+.bluebox {
+    background: #1A1A1A;
+}
+
+.logo h1 {
+    color: #1A1A1A;
+}
+
+.heading {
+    color: #1A1A1A;
+}
+
+.heading span {
+    color: #1A1A1A;
+}
+
+.welcome-text p b {
+    color: #1A1A1A;
+}
+
+.news h3 {
+    color: #1A1A1A;
+}
+
+.dateblock {
+    border: 2px solid #1A1A1A;
+    color: #1A1A1A;
+}
+
+.dateblock b {
+    color: #1A1A1A;
+}
+
+.news p {
+    color: #1A1A1A;
+}
+
+.course-content {
+  -webkit-filter: grayscale(1); /* Old WebKit */
+  filter: grayscale(1);
+}
+
+.footer {
+    background: #1A1A1A;
+}
+
+.smallfooter {
+    background: #000;
+}
+
+.bluebgbox{background: #1A1A1A;}
