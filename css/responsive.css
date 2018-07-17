@@ -200,6 +200,13 @@ grid-gap: 20px;
                 }
 
 
+
+                .Modern-Slider .item h3
+                {
+                    font-size: 1.5rem;
+                }
+
+
 }
 
 
@@ -305,6 +312,17 @@ grid-gap: 20px;
     
 }
   
+
+
+.Modern-Slider .item h3
+{
+    font-size: 1rem;
+}
+
+
+.Modern-Slider .item h5
+{line-height: 15px; font-size: 0.9rem;}
+
 
 }
 /* End 640px */
