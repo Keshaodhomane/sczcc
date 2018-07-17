@@ -63,7 +63,7 @@ h2 span, p span
 }
 
 
-.allboxes > div > h4
+.allboxes > div > h4, .lightblueline
 {
     background:url(../images/blue-lightbg-andhra-pradesh.png) repeat-x center top;
 }
@@ -104,3 +104,26 @@ h2 span, p span
     box-shadow: #FFA520 0px 0px 10px;
     background: rgb(255, 255, 255);
 }
+
+
+
+
+.lightblueline h2 
+{
+    color: #fff;
+}
+
+
+.lightblueline h2::before
+{
+    background-color:#AC4300;
+}
+
+
+.lightblueline h2::after
+{
+    background-color:#AC4300;
+}
+
+
+.blue-css{background: #FFA520;}

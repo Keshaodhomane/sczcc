@@ -63,7 +63,7 @@ h2 span, p span
 }
 
 
-.allboxes > div > h4
+.allboxes > div > h4, .lightblueline
 {
     background:url(../images/blue-lightbg-karnataka.png) repeat-x center top;
 }
@@ -104,3 +104,23 @@ h2 span, p span
     box-shadow: #00C0AC 0px 0px 10px;
     background: rgb(255, 255, 255);
 }
+
+
+
+
+.lightblueline h2 {color: #fff;}
+
+
+.lightblueline h2::before
+{
+    background-color:#006A74;
+}
+
+
+.lightblueline h2::after
+{
+    background-color:#006A74;
+}
+
+
+.blue-css{background: #00C0AC;}

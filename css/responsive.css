@@ -29,6 +29,24 @@
    }
 
 
+   .lightblueline  h2
+   {
+       
+       text-align: center;
+       display: grid;
+       grid-template-columns: auto auto auto;
+       font-size: 1rem
+       
+   }
+
+
+   .lightblueline h2::after
+   {
+       right: -30px;
+   }
+
+
+
 }
 /* End of 1024px */
 
@@ -149,6 +167,37 @@ grid-gap: 20px;
 
 }
 
+
+
+                .internal-box
+                {
+                display: grid;
+                grid-template-columns: auto;
+                grid-template-rows: auto auto;
+                grid-gap: 30px;
+                margin-top:30px;
+                }
+
+
+
+                .lightblueline  h2
+                {
+                    
+                    text-align: center;
+                    display: grid;
+                    grid-template-columns: auto auto auto;
+                    font-size: 1rem;
+                    line-height: auto;
+                    
+                }
+
+
+
+
+                .lightblueline h2::before, .lightblueline h2::after
+                {
+                    display: none;
+                }
 
 
 }
@@ -293,6 +342,23 @@ grid-gap: 20px;
     height: 140px;
     overflow: hidden;
   }
+
+
+
+
+
+
+  .lightblueline  h2
+  {
+      
+    
+      font-size: 0.8rem;
+      line-height: auto;
+      text-align: center;   
+      
+  }
+
+
 
 
 
