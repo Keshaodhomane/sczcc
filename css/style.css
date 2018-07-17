@@ -1370,8 +1370,8 @@ box-shadow: 0 0 30px rgba(0,0,0,0.2);
     width: 100%;
     padding: 20px;
     position:absolute;
-    left:50px;
-    top: calc( 100% - 150px );
+    left:20px;
+    top: calc( 100% - 100px );
 
     
    
