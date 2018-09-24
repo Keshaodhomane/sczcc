@@ -60,7 +60,7 @@ body, html{
 .rightitems
 {
     display:grid;
-    grid-template-columns: 120px 150px auto;
+    grid-template-columns: auto auto;
     grid-template-rows: 100px;
     grid-gap:10px;
     align-items: center;
